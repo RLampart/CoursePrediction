@@ -34,4 +34,6 @@ Attribute example: None
 # AI models:
 
 
-StudentRegression: Predicts the number of students that will be registered for a course. 
+StudentRegression: Predicts the number of students that will be registered for a course.
+
+FacultyClassification: Assigns a course into one of the observed faculties.
