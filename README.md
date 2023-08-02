@@ -37,3 +37,7 @@ Attribute example: None
 StudentRegression: Predicts the number of students that will be registered for a course.
 
 FacultyClassification: Assigns a course into one of the observed faculties.
+
+RoomClassification: Assigns a course into one of the observed rooms.
+
+Limited_RoomClassification: Predicts whether a course will be in a certain room or not.
