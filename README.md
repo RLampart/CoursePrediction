@@ -43,3 +43,5 @@ RoomClassification: Assigns a course into one of the observed rooms.
 Limited_RoomClassification: Predicts whether a course will be in a certain room or not.
 
 Limited_LecturerClassification: Predicts whether a course will be taught by a certain lecturer or not.
+
+Multimodal: A combination of the other models. 
